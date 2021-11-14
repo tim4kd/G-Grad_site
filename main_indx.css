@@ -1,10 +1,15 @@
 h1 {
-    font-family: Arial, sans-serif;
+    font-family: Comfortaa;
     text-align: left;
     margin: 4px 0 4px;
 }
 block1 {
-    font-family: Arial, sans-serif;
+    font-family: Comfortaa;
+    text-align: left;
+    margin: 4px 0 4px;
+}
+footer {
+    font-family: Comfortaa;
     text-align: left;
     margin: 4px 0 4px;
 }
