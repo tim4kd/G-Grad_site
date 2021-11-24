@@ -1,15 +1,36 @@
 h1 {
     font-family: Comfortaa;
+    color: rgb(201, 37, 37);
+    font-style: normal;
     text-align: left;
-    margin: 4px 0 4px;
-}
-block1 {
-    font-family: Comfortaa;
-    text-align: left;
-    margin: 4px 0 4px;
+    margin-left: 290px;
 }
 footer {
     font-family: Comfortaa;
+    color: rgb(201, 37, 37);
+    font-style: normal;
+    text-align: left;
+    margin-left: 290px;
+    margin-top: 50px;
+}
+a {
+    font-family: Comfortaa;
+    color: rgb(81, 151, 160);
+    font-style: normal;
     text-align: left;
     margin: 4px 0 4px;
+    text-decoration: none;
+    
 }
+html {
+    background-color: rgb(83, 59, 116);
+}
+
+
+/*цвета которые могут быть использоаны
+rgb(166, 40, 41) красный
+rgb(0, 106, 132) бирюзовый
+rgb(217, 165, 2) жолтый
+#37bd80 бирююзовый
+rgb(67, 48, 94)
+*\
